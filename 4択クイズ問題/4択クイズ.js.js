@@ -2,7 +2,7 @@ const quiz = [
     {
         question: '四本の身長は次の内どれ？',
         answers: [
-            '163cm',
+            '153cm',
             '183cm',
             '173cm',
             '173m'
